@@ -1,1 +1,19 @@
-
+{
+  "name": "SKIN NAME",
+  "logo": "URL TO ICON",
+  "author": "AUTHOR NAME",
+  "styles": [{
+    "emulatorBackground": "CSS FOR THE EMULATOR'S BACKGROUND",
+    "triggerL": "CSS FOR THE L BUTTON",
+    "triggerR": "CSS FOR THE R BUTTON",
+    "center": "CSS FOR THE CENTER OF THE D-PAD",
+    "right": "CSS FOR THE RIGHT BUTTON ON THE D-PAD",
+    "left": "CSS FOR THE LEFT BUTTON ON THE D-PAD",
+    "up": "CSS FOR THE UP BUTTON ON THE D-PAD",
+    "down": "CSS FOR THE DOWN BUTTON ON THE D-PAD",
+    "aBtn": "CSS FOR THE A BUTTON",
+    "bBtn": "CSS FOR THE B BUTTON",
+    "startBtn":"CSS FOR THE START BUTTON",
+    "select":"CSS FOR THE SELECT BUTTON"
+  }]
+}
