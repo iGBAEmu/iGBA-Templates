@@ -23,7 +23,7 @@ The easiest way to get games in iGBA is through repos, and we made it very easy 
 ### Skin Template
 Skins are a great way to customise your gaming experience, so we made it easy for those who know CSS to make skins.
 ``` 
-  {
+{
   "name": "SKIN NAME",
   "logo": "URL TO ICON",
   "author": "AUTHOR NAME",
