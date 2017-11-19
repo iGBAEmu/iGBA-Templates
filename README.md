@@ -18,6 +18,7 @@ The easiest way to get games in iGBA is through repos, and we made it very easy 
       "url": "DIRECT URL TO .gba FILE"
     }
   ]
+}
 ```
 
 ### Skin Template
